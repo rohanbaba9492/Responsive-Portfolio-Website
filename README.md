@@ -33,5 +33,6 @@ Mobile View
 
 
 Future Enhancements:
+
 Add JavaScript for interactive elements.
 Include animations and transitions for a smoother user experience.
